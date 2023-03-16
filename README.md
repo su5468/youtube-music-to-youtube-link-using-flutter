@@ -1,24 +1,7 @@
-# click_counter
+# YoutubeMusic2YoutubeLinkUsingFlutter  
+개인적 사용을 위해 작성한 코드  
+Code written for personal use  
 
-A new Flutter project created with https://flutlab.io
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+핸드폰 공유 기능(Sharing Intent)을 통해 작동함  
+안드로이드 Only이며 IOS에서는 작동 보장 못 함  
+유튜브 뮤직 공유하기 기능을 통해 링크를 공유하면 그 링크를 유튜브 링크로 바꾸어서 다시 공유해줌
